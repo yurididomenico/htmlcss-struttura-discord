@@ -43,9 +43,27 @@ header
 }
 
 /* |||||||||| MAIN |||||||||| */
-
-
-
+main
+{
+  background-color: rgb(255, 212, 131);
+}
+.sezione
+{
+  padding: 5vw 0;
+}
+.main-img
+{
+  width: 60%;  
+  height: 30vh;
+  background-color: orange;
+  margin-right: 3vw;
+}
+.main-descrizione-img
+{
+  width: 40%;
+  height: 30vh;
+  background-color: rgb(253, 176, 33);
+}
 /* |||||||||| FOOTER |||||||||| */
 
 
