@@ -1,4 +1,25 @@
 /* |||||||||| AREA SET |||||||||| */
+.contenitore80
+{
+  width: 80%;
+  margin: 0 auto;
+}
+.contenitore70
+{
+  width: 70%;
+  margin: 0 auto;
+}
+.contenitore60
+{
+  width: 60%;
+  margin: 0 auto;
+}
+.contenitore40
+{
+  width: 40%;
+  margin: 0 auto;
+}
+
 .center-text
 {
   text-align: center;
@@ -17,6 +38,10 @@
   padding: 2vw;
 }
 .pad-l
+{
+  padding: 3vw;
+}
+.pad-xl
 {
   padding: 3vw;
 }
@@ -54,11 +79,29 @@
 {
   padding: 3vw 0;
 }
-/* margin laterale */
-.x-mar-xxs
+
+/* margin */
+.mar-xs
 {
-  margin: 0 0.3vw;
+  margin: 0.5vw;
 }
+.mar-s
+{
+  margin: 1vw;
+}
+.mar-m
+{
+  margin: 2vw;
+}
+.mar-l
+{
+  margin: 3vw;
+}
+.mar-xl
+{
+  margin: 3vw;
+}
+/* margin laterale */
 .x-mar-xs
 {
   margin: 0 0.5vw;
@@ -75,6 +118,11 @@
 {
   margin: 0 3vw;
 }
+/* margin verticale */
+.y-mar-xs
+{
+  margin: 0.5vw 0;
+}
 .y-mar-s
 {
   margin: 1vw 0;
@@ -87,6 +135,7 @@
 {
   margin: 3vw 0;
 }
+
 /* Border Radius */
 .borag-s
 {
@@ -139,6 +188,22 @@
 .font-xl
 {
   font-size: 2rem;
+}
+.sfondo-nero
+{
+  background-color: black;
+}
+.sfondo-bianco
+{
+  background-color: white;
+}
+.testo-nero
+{
+  color: black;
+}
+.testo-bianco
+{
+  color: white;
 }
 /* |||||||||| AREA SET |||||||||| */
 

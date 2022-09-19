@@ -18,15 +18,29 @@ a
   color: black;
 }
 /* |||||||||| INIZIO |||||||||| */
-
+body
+{
+  background-color: lightgrey;
+}
 
 /* |||||||||| HEADER |||||||||| */
-
-
+header
+{
+  height: 62vh;
+  background-color: pink;
+}
 
 /* |||||||||| NAV |||||||||| */
-
-
+.nav
+{
+  height: 8vh;
+  background-color: rgb(252, 86, 86);
+}
+.header
+{
+  height: 45vh;
+  background-color: rgb(255, 147, 147);
+}
 
 /* |||||||||| MAIN |||||||||| */
 
