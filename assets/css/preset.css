@@ -1,0 +1,182 @@
+/* |||||||||| AREA SET |||||||||| */
+.center-text
+{
+  text-align: center;
+}
+/* Padding */
+.pad-xs
+{
+  padding: 0.5vw;
+}
+.pad-s
+{
+  padding: 1vw;
+}
+.pad-m
+{
+  padding: 2vw;
+}
+.pad-l
+{
+  padding: 3vw;
+}
+/* Padding laterale */
+.x-pad-xs
+{
+  padding: 0 0.5vw;
+}
+.x-pad-s
+{
+  padding: 0 1vw;
+}
+.x-pad-m
+{
+  padding: 0 2vw;
+}
+.x-pad-l
+{
+  padding: 0 3vw;
+}
+/* Padding verticale */
+.y-pad-xs
+{
+  padding: 0.5vw 0;
+}
+.y-pad-s
+{
+  padding: 1vw 0;
+}
+.y-pad-m
+{
+  padding: 2vw 0;
+}
+.y-pad-l
+{
+  padding: 3vw 0;
+}
+/* margin laterale */
+.x-mar-xxs
+{
+  margin: 0 0.3vw;
+}
+.x-mar-xs
+{
+  margin: 0 0.5vw;
+}
+.x-mar-s
+{
+  margin: 0 1vw;
+}
+.x-mar-m
+{
+  margin: 0 2vw;
+}
+.x-mar-l
+{
+  margin: 0 3vw;
+}
+.y-mar-s
+{
+  margin: 1vw 0;
+}
+.y-mar-m
+{
+  margin: 2vw 0;
+}
+.y-mar-l
+{
+  margin: 3vw 0;
+}
+/* Border Radius */
+.borag-s
+{
+  border-radius: 5px;
+}
+.borag-m
+{
+  border-radius: 10px;
+}
+.borag-l
+{
+  border-radius: 20px;
+}
+.borag-xl
+{
+  border-radius: 40px;
+}
+.borag-cerchio
+{
+  border-radius: 50%;
+}
+.bordo-1
+{
+  border: 1px solid black;
+}
+.bordo-2
+{
+  border: 2px solid black;
+}
+.bordo-3
+{
+  border: 3px solid black;
+}
+.font-xs
+{
+  font-size: 0.8rem;
+}
+.font-s
+{
+  font-size: 1rem;
+}
+.font-m
+{
+  font-size: 1.2rem;
+}
+.font-l
+{
+  font-size: 1.4rem;
+}
+.font-xl
+{
+  font-size: 2rem;
+}
+/* |||||||||| AREA SET |||||||||| */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Fine */
