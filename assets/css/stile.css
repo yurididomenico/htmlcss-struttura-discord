@@ -65,10 +65,49 @@ main
   background-color: rgb(253, 176, 33);
   padding: 2vw;
 }
+.main-img-column
+{
+  width: 100%;  
+  height: 60vh;
+  background-color: orange;
+  padding: 2vw;
+}
+.main-descrizione-img-column
+{
+  width: 100%;
+  height: 30vh;
+  background-color: rgb(253, 176, 33);
+  padding: 2vw;
+}
+.btn
+{
+  background-color: #90a2df;
+  width: 8vw;
+  padding: 0.5vw;
+  margin: 1vw 0;
+}
 /* |||||||||| FOOTER |||||||||| */
 
-
-
+footer
+{
+  background-color: rgb(129, 235, 129);
+}
+.footer-left
+{
+  height: 30vh;
+  width: 20%;
+  background-color: rgb(34, 194, 34);
+}
+.footer-right
+{
+  width: 70%;
+  background-color: rgb(34, 194, 34);
+  margin: 0 5vw;
+}
+.footer-right li > ul
+{
+  margin: 1vw 0;
+}
 /* |||||||||| AREA TEST |||||||||| */
 
 
