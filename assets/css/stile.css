@@ -54,15 +54,16 @@ main
 .main-img
 {
   width: 60%;  
-  height: 30vh;
+  height: 60vh;
   background-color: orange;
-  margin-right: 3vw;
+  padding: 2vw;
 }
 .main-descrizione-img
 {
   width: 40%;
-  height: 30vh;
+  height: 60vh;
   background-color: rgb(253, 176, 33);
+  padding: 2vw;
 }
 /* |||||||||| FOOTER |||||||||| */
 
