@@ -51,3 +51,15 @@
 {
   align-content: center;
 }
+.grow-0
+{
+  flex-grow: 0;
+}
+.grow-1
+{
+  flex-grow: 1;
+}
+.basis
+{
+  flex-basis: 1;
+}

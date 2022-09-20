@@ -104,10 +104,10 @@ footer
   background-color: rgb(34, 194, 34);
   margin: 0 5vw;
 }
-.footer-right li > ul
+/* .footer-right li > ul
 {
   margin: 1vw 0;
-}
+} */
 .footer-sezione-finale
 {
   border-top: 1px solid #444f70;
